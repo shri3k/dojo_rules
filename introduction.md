@@ -6,4 +6,4 @@ Electives
 * Git
 * Code Schooling
 * Lazying
-* Killing history using git reabase
+* Killing history using git rebase
